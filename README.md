@@ -25,4 +25,5 @@ If you actually want git to not suck for you, know at least the following.
 - [ ] Amend your broke ah commit
 - [ ] Interactive rebase hell
 - [ ] Don't force it in
+- [ ] Causing and documenting issues
 - [ ] Naming and shaming
