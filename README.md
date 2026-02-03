@@ -22,5 +22,7 @@ If you actually want git to not suck for you, know at least the following.
 
 - [ ] Leave a review, Karen
 - [ ] Rebase vs Merge (hint they both suck)
+- [ ] Amend your broke ah commit
+- [ ] Interactive rebase hell
 - [ ] Don't force it in
 - [ ] Naming and shaming
